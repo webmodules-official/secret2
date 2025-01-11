@@ -1,0 +1,4 @@
+Sep 16, 2014 9:49:07 PM logging.ServerLogger logMessage
+WARNING: Message level: [WARNING] Error while reading socketjava.io.IOException: An existing connection was forcibly closed by the remote host - in class [ServerCore.SelectorThread]
+Sep 16, 2014 11:27:59 PM logging.ServerLogger logMessage
+WARNING: Message level: [WARNING] Error while reading socketjava.io.IOException: An existing connection was forcibly closed by the remote host - in class [ServerCore.SelectorThread]

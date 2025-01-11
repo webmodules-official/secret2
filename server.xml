@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GameServer>
+<database>
+<username>root</username>
+<password>mypass123</password>
+<host>localhost</host>
+<db>openheroes</db>
+<driver>mysql-connector-java-5.0.8-bin.jar</driver>
+</database>
+<server>
+<port>11000</port>
+</server>
+<lobby>
+<ip>127.0.0.1</ip> 
+<status>1</status>
+<cdpPort>10002</cdpPort>
+<lobbyPort>10000</lobbyPort>
+</lobby>
+<Logging>
+<logWriteLevel>warning</logWriteLevel>
+<logOutputLevel>info</logOutputLevel>
+<logFile>Error.log</logFile>
+<logLobby>no</logLobby>
+</Logging>
+</GameServer>

@@ -1,0 +1,125 @@
+--------------------------------------------------------------------GMH-- "screen ./game.sh--------------------------------------------------------------------	 
+\\\\\\\\\\\\\\\\\\/////
+273000825 = illusion bullet
+273000766 = Strenght Stone can upgrade all items of level 144-160 equip +0 to +12
+273000080 = samgwang stone can upgrade all items of level 1-160 equip from +0 to +12
+273000087 = sam stone manuals can be used for events
+
+\\\\\\\\\\\\\\\\\\\////
+283000235 - 30day 1-130 skyzone ticket
+273001272 - semi rc md sz ticket
+273001251 - the 30 day ticket
+273001227 - skill ini pot non tradable
+273001228 - jun pot non trdable
+
+,,[[[[[[[[[[[]]]]]]]]]]]],,,
+on pvp rating like with guild, the #1 highest rank must not receive any points, they can only defend it
+
+wolk set mut 273001475 273001470 273001478
+doko set mut 273001355 273001359 273001363
+
+9000 = axe war
+9060 = wheel monk
+9061 = bow sin
+9065 = dagger sin
+9066 = fan mage
+9067 = lance war
+9069 = wheel monk
+
+////////////////////
+grade 11 = 6100fame , 100g
+grade 10 = 25000fame, 500g
+
+
+////////////////////
+0 novice
+4500 desired
+
+
+
+******************
+1-9 = pots
+0 = atk_succes, Ass crit chance(hiding)
+1 = hp
+2 = Ass offence,monk off, off decrease
+3 = Ass defence,monk def, def decrease
+4 = mana_shield,hp_regen, 2ndwar def succes
+5 = poison,cleaner
+6 = summon,stealth,def %
+7 = stun,sleep,root,hiding/def
+8 = 0's
+******************
+6 = hp_regeneration
+7 = hp
+12 = def succes
+13 = -exp
+15 = offence
+16 = defence
+21 = atk succes
+22 = crit chance
+42 = mana shield
+43 = stun
+44 = stealth
+45 = hiding % Damage
+46 = sleep
+47 = poison
+48 = cleaner
+49 = root
+52 = off cntrl
+56 = penance
+58 = summon
+64 = purple/blue
+
+
+96 = guild buff 1
+97 = guild buff 2
+98 = guild buff 3
+99 = guild buff 4
+100 = guild buff 5
+101 = guild buff 6
+102 = red guild buf 
+103 = blue guild buff
+104 = dark red guild buff
+105 = dark blue guild buff
+
+//2~10 upgrades
+215003001
+215003002
+215003003
+
+//1~9 upgrades
+215003408
+215003708
+215004008
+
+//1~12 upgrades
+273000080
+
+283000273 // BT
+273001207 // PB
+283000301 // lottery ticket
+
+213062383 = banno
+
+241111001,Simitar+1   
+241112001,Iron Axe+1 
+241113001,Long Lance+1  
+
+241221001,Bronze Dagger+1 
+241222001,IronSpikeGauntlet+1 
+241223001,Soft Bow +1  
+
+241131001,Beginner Glove+1  
+241132001,Iron Fan+1  
+241133001,Bronze Sword+1
+
+241141001,Shao Lin Rod+1              
+241142001,Iron Wheel+1 
+241143001,Iron Plummet+1  
+<<<<<<<<<<<<<<----------------------------->>>>>>>>>>>>>>>
+
+219230906
+219230801
+
+
+
